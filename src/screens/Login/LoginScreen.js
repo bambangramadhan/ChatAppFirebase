@@ -70,3 +70,22 @@ const styles = StyleSheet.create({
 });
 
 export default LoginScreen;
+
+
+
+// '1. James Clear di Medium dalam artikel nya yang berjudul The Scientific Argument for Mastering One Thing at a Time'
+// 'Rabu, 5 Agustus 2020 11:06 WIB'
+
+//   `   Jadi, untuk mengimprove atau meningkatkan skill yang kita punya, caranya yaitu fokus dalam satu kegiatan dalam waktu itu,
+//     jangan menggabungkan dua kegiatan dalam satu waktu.. Terus bagaimana sih cara nya agar kita bisa fokus hanya ke satu hal, itu bisa
+//     diatasi dengan cara kita menuliskan plan kita, format plan nya harus, dimana akan dikerjakan, minimal mau berapa jam mengerjakannya,
+//     jam berapa, hari apa, contoh: Belajar bahasa inggris, minimal 20 menit, di kosan hari kamis, 06 Agustus 2020 08:00.. 
+//         Jika kita melakukan plan yang bisa membuat fokus terdapat kegiatan itu, maka dijamin 2x - 3x kita akan melakukannya dibanding hari2 biasanya.
+//     Karena hal ini sudah dibuktikan oleh research dati british.
+//         Jika kita melakukan sesuatu seperti itu, maka kemungkinan, setidaknya dalam waktu dua bulan, hal tersebut akan menempel di diri kita dan
+//     menjadi kebiasaan kita sehari-hari
+//         Kesimpulannya, jika kita ingin mengubah seluruh perilaku kita, maka janganlah rubah sekaligus, mulailah dengan melakukan satu kebiasaan
+//     sampai kamu benar-benar menguasainya. Kesuksesan bukan tergantung dari suatu hal besar yang sangat berpengaruh terhadap kita, tetapi 
+//     dari suatu hal kecil yang kita lakukan setiap hari nya, bukan pencapainya tetapi prosesnya itu yang membuat kita bisa sukses.
+//     `
+// '2. James Clear di Medium dalam artikel nya yang berjudul '

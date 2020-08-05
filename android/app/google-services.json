@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566860790794",
+    "firebase_url": "https://bamsapp-28b57.firebaseio.com",
+    "project_id": "bamsapp-28b57",
+    "storage_bucket": "bamsapp-28b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566860790794:android:cd5dae8b834d67895f33f3",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566860790794-b4etg22lgktgvfrceshe92i5q9mo04a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqP5tbkQAyqm2HV8f9oGBccAjslZulvGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566860790794-b4etg22lgktgvfrceshe92i5q9mo04a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
